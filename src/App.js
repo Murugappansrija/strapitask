@@ -143,7 +143,7 @@ function App() {
           <Row className="mt-5 text-center">
             <Col className="d-flex justify-content-center">
               <p
-                className="w-100 w-md-25 fs-5 fw-bold p-2"
+                className="w-25 w-md-25 fs-5 fw-bold p-2"
                 style={{ background: "#9467dc", color: "white" }}
               >
                 R S V P
